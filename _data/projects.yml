@@ -3,7 +3,7 @@
   link: 
   github: 
   quote: >
-
+   
   description: | # this will include new lines to allow paragraphs
     Geophysical surveying methods were utilizied on historical sites in order to confirm settlement site, defensive structures, and burial customs in Sechelt, BC. Following data collection, magnetic data was processed using Matlab scripts. Resisitivity data was developed and analysed for undergraduate thesis.
 - layout: top-middle
