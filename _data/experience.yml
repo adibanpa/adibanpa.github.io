@@ -5,7 +5,9 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    Core analysis using magnetic susceptibility. Magnetic surveying using an overhauser magnetometer.
+    - Core analysis using magnetic susceptibility.
+
+    - Magnetic surveying using an overhauser magnetometer.
 - layout: left
   company: University of Toronto
   job_title: Research Assistant
@@ -16,5 +18,5 @@
     – Set up and run analogue models of tectonic deformation. 
 
     – Data analysis and display using python.
-    
+
     – Numerical analysis of data using statistical methods.

@@ -5,17 +5,24 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    I started my undergraduate degree as a Physics specialist, however after my first I decided to pursue geophysics due to my interest in earth sciences. During my final years I was also interested in data science and computational physics. During my free time I played soccer and volleyball in the intramural league!
+    I started my undergraduate degree as a Physics specialist, 
+    however after my first I decided to pursue geophysics due 
+    to my interest in earth sciences. During my final years 
+    I was also interested in data science and computational physics. 
+
+    During my free time I played soccer and volleyball in the intramural league!
 - layout: left
-  name: INRS (institut national de la recherche scientifique)
+  name: INRS (Institut national de la recherche scientifique)
   dates: 2018-
   qualification: MSc. Earth Sciences
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Currently, I am a master's student at the INRS. During my project I have devoted my time to
-    structural interpretation using geophysical data, spatial analysis using GIS software, and 
-    ensemble methods of machine learning using Python.
+    Currently, I am a master's student at the INRS. During my project I 
+    have devoted my time to structural interpretation using geophysical data, 
+    spatial analysis using GIS software, and ensemble methods of machine 
+    learning using Python.
 
-    I am also the secretary of SEG (Society of Exploration Geophysics) student chapter, member of
-    the EAGE (European Association of Geoscientists and Engineers)
+    I am also the secretary of SEG (Society of Exploration Geophysics) 
+    student chapter and member of the EAGE (European Association of 
+    Geoscientists and Engineers) student chapter.

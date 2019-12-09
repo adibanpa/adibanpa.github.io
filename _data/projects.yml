@@ -5,7 +5,11 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Geophysical surveying methods were utilizied on historical sites in order to confirm settlement site, defensive structures, and burial customs in Sechelt, BC. Following data collection, magnetic data was processed using Matlab scripts. Resisitivity data was developed and analysed for undergraduate thesis.
+    Geophysical surveying methods were utilizied on historical sites in 
+    order to confirm settlement site, defensive structures, and burial 
+    customs in Sechelt, BC. Following data collection, magnetic data was 
+    processed using Matlab scripts. The resisitivity data was processed and 
+    interpreted for undergraduate thesis.
 - layout: top-middle
   name: Data Analysis GUI
   link: 
@@ -14,7 +18,8 @@
     Analogue modelling with computational analysis
   description: | # this will include new lines to allow paragraphs
     Graphical User Interface created using the tkinter package on 
-    Python to display graphs and animations using data produced by the DaVis program.
+    Python to display graphs and animations using data produced 
+    by the DaVis program.
 - layout: top-middle
   name: Field Geophysics
   link: 
@@ -22,7 +27,8 @@
   quote: >
     Collaboration with Universidad Nacional Autonoma de Mexico (UNAM)
   description: | # this will include new lines to allow paragraphs
-    Collaborating with Dr. Rene E. Chavez on two different projects using resistivity, magnetics, 
-    and GPR methods. 
-    3D inversion of resistivity data.
+    Collaborating with Dr. Rene E. Chavez on two different projects 
+    using resistivity, magnetics, and GPR methods. Also computed 
+    3D inversion of resistivity data using innovative electrode gridding systems
+    developed by Dr. Charly Bank.
 

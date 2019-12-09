@@ -24,9 +24,10 @@ linkedin_username: padiban
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Parham and I'm a master's student at institut national de la recherche scientifique (INRS) in Quebec city.
-  For my current project, I am looking at the statistical relationship between deep geological structures in western Superior 
-  Province and gold deposits/showings.
+  My name is Parham and I'm a master's student at institut national de 
+  la recherche scientifique (INRS) in Quebec city. For my current project, 
+  I am looking at the statistical relationship between deep geological 
+  structures in western Superior Province and gold deposits/showings.
 
   Quebec champion of the SEG challenge bowl 2019!
 
