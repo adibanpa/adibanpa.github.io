@@ -7,12 +7,12 @@
   description: | # this will include new lines to allow paragraphs
     – Core analysis using magnetic susceptibility.
     – Magnetic surveying using an overhauser magnetometer.
-- layout: left
-  company: University of Toronto
-  job_title: Research Assistant
-  dates: May 2017 - March 2018
-  quote: >
-    Analogue modelling
-  description: | # this will include new lines to allow paragraphs
-    – Set up and run analogue models of tectonic deformation. – Data analysis and display using python.
-    – Numerical analysis of data using statistical methods.
+# - layout: left
+#   company: University of Toronto
+#   job_title: Research Assistant
+#   dates: May 2017 - March 2018
+#   quote: >
+#     Analogue modelling
+#   description: | # this will include new lines to allow paragraphs
+#     – Set up and run analogue models of tectonic deformation. – Data analysis and display using python.
+#     – Numerical analysis of data using statistical methods.
