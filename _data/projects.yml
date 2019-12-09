@@ -1,8 +1,27 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Archaeological geophysics.
+]  quote: >
+    Undergraduate research project
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  Geophysical surveying methods were utilizied on historical sites in order to confirm 
+  settlement site, defensive structures, and burial customs in Sechelt, BC. 
+  Following data collection, magnetic data was processed using Matlab scripts. 
+  Resisitivity data was developed and analysed for undergraduate thesis.
+
+- layout: top-middle
+  name: Data Analysis GUI
+]  quote: >
+    Analogue modelling with computational analysis
+  description: | # this will include new lines to allow paragraphs
+  Graphical User Interface created using the tkinter package on 
+  Python to display graphs and animations using data produced by the DaVis program.
+
+- layout: top-middle
+  name: Field Geophysics
+]  quote: >
+    Collaboration with Universidad Nacional Autonoma de Mexico (UNAM)
+  description: | # this will include new lines to allow paragraphs
+  - Collaborating with Dr. Rene E. Chavez on two different projects using resistivity, magnetics, 
+  and GPR methods. 
+  - 3D inversion of resistivity data.
+
