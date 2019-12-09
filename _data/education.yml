@@ -1,10 +1,26 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: University of Toronto
+  dates: 2013-2018
+  qualification: H.BSc. Geophysics
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  description: | # this will include new lines to allow paragraphs
+    I started my undergraduate degree as a Physics specialist, however after my first I decided to 
+    pursue geophysics due to my interest in earth sciences. During my final years I was also interested
+    in data science and computational physics.
+
+    During my free time I played soccer and volleyball in the intramural league!
+
+- layout: left
+  name: INRS (institut national de la recherche scientifique)
+  dates: 2018-
+  qualification: MSc. Earth Sciences
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Currently, I am a master's student at the INRS. During my project I have devoted my time to
+    structural interpretation using geophysical data, spatial analysis using GIS software, and 
+    ensemble methods of machine learning using Python.
+
+    I am also the secretary of SEG (Society of Exploration Geophysics) student chapter, member of
+    the EAGE (European Association of Geoscientists and Engineers)
