@@ -15,8 +15,8 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    – Set up and run analogue models of tectonic deformation. 
+    - Set up and run analogue models of tectonic deformation. 
+    
+    - Data analysis and display using python.
 
-    – Data analysis and display using python.
-
-    – Numerical analysis of data using statistical methods.
+    - Numerical analysis of data using statistical methods.
