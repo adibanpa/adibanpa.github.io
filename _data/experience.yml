@@ -5,8 +5,12 @@
   quote: >
     University of Toronto: June 2018 - July 2018
   description: | # this will include new lines to allow paragraphs
-    Analyzing drill cores using magnetic susceptibility measurement; Magnetic surveying 	using an overhauser magnetometer.
-- layout: left
+    In a team of student geophysicists and geologists, during the course of 3 weeks in New Mills, NB, we conducted several measurements pertaining to the master's thesis of Camille Hebert, under the supervision of Professor Bernd Milkreit. Tasks included:
+	<ul>
+  	<li>Magnetic susceptibility measurement from drill cores.</li>
+  	<li>Identifying magnetically significant areas of interest and measuring their magnetic response using an Overhauser magnetometer.</li>
+	</ul>
+- layout: top-middle
   name: Research Assistant
   link: 
   github: 
