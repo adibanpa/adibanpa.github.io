@@ -7,12 +7,46 @@
    In a team of student geophysicists and geologists, during the course of 3 weeks in New Mills, NB, we conducted several measurements pertaining to the master's thesis of Camille Hebert, under the supervision of Professor Bernd Milkreit.
   description: | # this will include new lines to allow paragraphs
      As a student geophysicist my tasks included magnetic susceptibility measurement from drill cores, Identifying magnetically significant areas of interest, and measuring their magnetic response using an Overhauser magnetometer.
+
+- layout: left
+  company: University of Toronto
+  link:	
+  job_title: Outreach and communications assistant
+  dates: May 2018 - March 2018
+  quote: >
+    The department of Earth Science created a task force of students to promote the department and the events they hosted.
+
+  description: | # this will include new lines to allow paragraphs
+    As part of an outreach task force, I acted informally as a social media liason. I promoted the department and its events by creating an instagram profile and collecting hundreds of followers consisting of students, other departments, public educators, and more. To validate the department as a location of interest, I successfully designed and had a landmark geotag approved by snapchat.
+
 - layout: left
   company: University of Toronto
   link:	
   job_title: Lab Assistant
+  dates: May 2018 - March 2018
   quote: >
     I first acquired this position as a three month internship funded through the NSERC undergraduate award. I was the lab assistant to Dr. Tasca Santimano and Dr. Russ Pysklywec at the University of Toronto Tectonophysics lab. The position was extended on a part time basis throughout the school year.
 
   description: | # this will include new lines to allow paragraphs
     During my time in the lab, I took part in the set up and processing of analogue models of tectonic deformation, data analysis and data visualization using python, and numerical analysis of data by Fourier analysis.
+
+- layout: left
+  company: GOODSTUDY tutoring
+  link: https://www.goodstudytutoring.com
+  job_title: Tutor
+  dates: September 2016 - September 2017
+  quote: >
+   GOODSTUDY is a private tutoring company. Most clients are high school students.
+  description: | # this will include new lines to allow paragraphs
+   My duties included tutoring students in 1-on-1 sessions usually lasting an hour. The subjects I taught included Maths, Physics, and Law to students in grade 11 and 12. Tutoring hours were on a casual basis based on my availability and the needs of the company.
+
+- layout: left
+  company: Don Mills Family Health Team
+  link: https://www.donmillshealth.com
+  job_title: Desk Receptionist
+  dates: September 2016 - September 2017
+  quote: >
+   Don Mills Family Health Team is a medical clinic consisting of Family Physicians, Nurse Practitioners, Dietitians, and more.
+  description: | # this will include new lines to allow paragraphs
+   As the receptionists my responsibilities included greeting patients, manage patient-doctor communications, and organizing staff schedules.
+    
