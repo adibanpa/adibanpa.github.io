@@ -1,22 +1,16 @@
-- layout: left
-  company: University of Toronto
-  job_title: Field geophysics
-  dates: June 2018 - July 2018
+- layout: top-middle
+  name: Field Geophysicist
+  link: 
+  github: 
   quote: >
-    
+    University of Toronto: June 2018 - July 2018
   description: | # this will include new lines to allow paragraphs
-    - Core analysis using magnetic susceptibility.
-
-    - Magnetic surveying using an overhauser magnetometer.
+    Analyzing drill cores using magnetic susceptibility measurement; Magnetic surveying 	using an overhauser magnetometer.
 - layout: left
-  company: University of Toronto
-  job_title: Research Assistant
-  dates: May 2017 - March 2018
+  name: Research Assistant
+  link: 
+  github: 
   quote: >
-    
+    University of Toronto: May 2017 - March 2018
   description: | # this will include new lines to allow paragraphs
-    - Set up and run analogue models of tectonic deformation. 
-    
-    - Data analysis and display using python.
-
-    - Numerical analysis of data using statistical methods.
+    Set up and run analogue models of tectonic deformation; Data analysis and displayusing python; Numerical analysis of data using statistical methods.
