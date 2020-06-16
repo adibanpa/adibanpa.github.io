@@ -6,10 +6,8 @@
     University of Toronto: June 2018 - July 2018
   description: | # this will include new lines to allow paragraphs
     In a team of student geophysicists and geologists, during the course of 3 weeks in New Mills, NB, we conducted several measurements pertaining to the master's thesis of Camille Hebert, under the supervision of Professor Bernd Milkreit. Tasks included:
-	<ul>
-  	<li>Magnetic susceptibility measurement from drill cores.</li>
-  	<li>Identifying magnetically significant areas of interest and measuring their magnetic response using an Overhauser magnetometer.</li>
-	</ul>
+  	- Magnetic susceptibility measurement from drill cores.
+  	- li>Identifying magnetically significant areas of interest and measuring their magnetic response using an Overhauser magnetometer.
 - layout: top-middle
   name: Research Assistant
   link: 
@@ -17,4 +15,4 @@
   quote: >
     University of Toronto: May 2017 - March 2018
   description: | # this will include new lines to allow paragraphs
-    Set up and run analogue models of tectonic deformation; Data analysis and displayusing python; Numerical analysis of data using statistical methods.
+    I first acquired this position as a three month internship funded through the NSERC undergraduate award. I was the lab assistant to Dr. Tasca Santimano and Dr. Russ Pysklywec at the University of Toronto Tectonophysics lab. The position was extended on a part time basis throughout the school year. The tasks involved includedSet up and run analogue models of tectonic deformation; Data analysis and displayusing python; Numerical analysis of data using statistical methods.
