@@ -4,10 +4,10 @@
   job_title: Geodata analyst
   dates: August 2021 - current
   quote: > 
-  Independent contractor
+    Independent contractor
   description: | # this will include new lines to allow paragraphs
-  Responsibilities include data extraction - mining data from old data files using python programming; organizing and managing database consisting of various geoscientific data; 
-  visualizing data using QGIS and producing maps used for exploration and prospecting.
+    Responsibilities include data extraction - mining data from old data files using python programming; organizing and managing database consisting of various geoscientific data; 
+    visualizing data using QGIS and producing maps used for exploration and prospecting.
 
 - layout: left
   company: INRS (Institut national de la recherche scientifique)
@@ -15,10 +15,10 @@
   job_title: Agent de recherche
   dates: August 2021 - current
   quote: > 
-  Research associate working in Professor Lyal Harris
+    Research associate working in Professor Lyal Harris
   description: | # this will include new lines to allow paragraphs
-  Tasks include enhancement of geophysical data using Oasis Montaj, QGIS, and Python; extracting statistical features of data and improving the performance of the model up to 20%;
-  developing and comparing supervised and semi-supervised models for mining exploration purposes; prospectivity mapping using machine learning techniques on Python using libraries such as Scikit-learn, Pandas, NumPy, XGBoost, and more.
+    Tasks include enhancement of geophysical data using Oasis Montaj, QGIS, and Python; extracting statistical features of data and improving the performance of the model up to 20%;
+    developing and comparing supervised and semi-supervised models for mining exploration purposes; prospectivity mapping using machine learning techniques on Python using libraries such as Scikit-learn, Pandas, NumPy, XGBoost, and more.
 
 - layout: left
   company: University of Toronto
