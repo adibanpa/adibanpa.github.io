@@ -6,7 +6,7 @@
   quote: > 
     Independent contractor
   description: | # this will include new lines to allow paragraphs
-    Responsibilities include data extraction - mining data from old data files using python programming; organizing and managing database consisting of various geoscientific data; 
+    Responsibilities include data extraction i.e. mining data from old data files using python programming; organizing and managing database consisting of various geoscientific data; 
     visualizing data using QGIS and producing maps used for exploration and prospecting.
 
 - layout: left
