@@ -13,16 +13,11 @@
     During my free time I played soccer and volleyball in the intramural league!
 - layout: left
   name: INRS (Institut national de la recherche scientifique)
-  dates: 2018-
+  dates: 2018-2022
   qualification: MSc. Earth Sciences
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Currently, I am a master's student at the INRS. During my project I 
-    have devoted my time to structural interpretation using geophysical data, 
-    spatial analysis using GIS software, and ensemble methods of machine 
-    learning using Python.
-
-    I am also the secretary of SEG (Society of Exploration Geophysics) 
-    student chapter and member of the EAGE (European Association of 
-    Geoscientists and Engineers) student chapter.
+    I have devoted my time to structural interpretation using geophysical data, 
+    spatial analysis using GIS software, and prospectivity mapping using machine 
+    learning on Python.
